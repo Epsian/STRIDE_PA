@@ -1,12 +1,3 @@
----
-title: "Project Overview"
-author: "Jared Joseph"
-date: "July 10, 2018"
-output: 
-  html_document: 
-    keep_md: yes
----
-
 The purpose of this project is to better understand the public discourse surrounding legislation in democracies. Given the democratic system, open debate and argument are assumed to be a vital step in creating legislation. However, it is a step that is becoming more truncated. A key example was the passage of the USA PATRIOT Act, shortly after the attack on the World Trade Center in 2001. This piece of legislation influenced several aspects of federal policy, and massively changed how government surveillance operates in the United States, yet the 131 page piece of legislation was introduced and passed into law in only 4 days.
 
 The PATRIOT Act affected several areas of United States law. Its main titles included:
@@ -35,4 +26,4 @@ My hypothesis was that due to rapid passage of the PATRIOT Act, discourse surrou
 
 I collected newspaper texts from [Access World News](http://infoweb.newsbank.com/resources/search/nb?p=AWNB&t=collection%3AAIN!Access%2BInternational%2BNews) and constructed a timeline of when key topics from the USA PATRIOT Act emerged in the public discourse. Topic models were then generated for each major emergence of the PATRIOT Act in public discourse. For more information about this process, see the data managment plan under the `data` directory.
 
-![Project Workflow](STRIDE Workflow.png)
+![Project Workflow](STRIDE_PA/STRIDE Workflow.png)
