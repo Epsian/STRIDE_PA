@@ -26,5 +26,4 @@ My hypothesis was that due to rapid passage of the PATRIOT Act, discourse surrou
 
 I collected newspaper texts from [Access World News](http://infoweb.newsbank.com/resources/search/nb?p=AWNB&t=collection%3AAIN!Access%2BInternational%2BNews) and constructed a timeline of when key topics from the USA PATRIOT Act emerged in the public discourse. Topic models were then generated for each major emergence of the PATRIOT Act in public discourse. For more information about this process, see the data managment plan under the `data` directory.
 
-[[STRIDE_PA/STRIDE Workflow.png|alt=Workflow]]
-![Project Workflow](STRIDE_PA/STRIDE Workflow.png)
+![Project Workflow](STRIDE_PA/STRIDE%20Workflow.png)
